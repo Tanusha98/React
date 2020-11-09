@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "name": "Memes",
+      "url": "/memes"
+    },
+    {
+      "name": "Songs",
+      "url": "/songs"
+    },
+    {
+      "name": "Games",
+      "children": [
+        {
+          "name": "TicTacToe",
+          "url": "/tictactoe"
+        },
+        {
+          "name": "Tetris",
+          "url": "/tetris"
+        }
+      ]
+    },
+    {
+      "name": "BlackClover",
+      "children": [
+        {
+          "name": "Astha",
+          "url": "/astha"
+        },
+        {
+          "name": "Yuno",
+          "url": "/yuno"
+        },
+        {
+          "name": "Vermillion",
+          "children": [
+            {
+              "name": "Feugo",
+              "url": "/feugo"
+            },
+            {
+              "name": "Mereo",
+              "url": "/mereo,"
+            },
+            {
+              "name": "Leo",
+              "url": "/leo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
